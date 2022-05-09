@@ -1,6 +1,8 @@
 # 💫About Me :
 I'm currently work on @iugu.
+
 I'm building open source stuff for ecommerce and retail.
+
 My main focus for life is Ruby.
 
 ## 🌐Socials
