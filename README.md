@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently work on @iugu.
+I'm currently work on @Purple-Stock.
 
 I'm building open source stuff for ecommerce and retail.
 
