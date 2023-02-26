@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently work on @Purple-Stock.
+I'm currently work on my on business [@Purple-Stock](https://github.com/Purple-Stock).
 
 I'm building open source stuff for ecommerce and retail.
 
