@@ -3,7 +3,7 @@ I'm currently work on @Purple-Stock.
 
 I'm building open source stuff for ecommerce and retail.
 
-My main language focus is Ruby.
+My main stack focus is Ruby on Rails and React.
 
 ![puppe_create_a_train_in_rails_with_red_ruby_gems_in_back_in_for_1ead9660-ba7a-4dad-8a91-0aa7f629e0d3](https://user-images.githubusercontent.com/8432835/216748039-b2fcf0ca-17c2-4502-ae88-6cfe12d01a65.png)
 
