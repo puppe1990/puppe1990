@@ -5,9 +5,6 @@ I'm building open source stuff for ecommerce and retail.
 
 My main stack focus is Ruby on Rails and React.
 
-![puppe_create_a_train_in_rails_with_red_ruby_gems_in_back_in_for_1ead9660-ba7a-4dad-8a91-0aa7f629e0d3](https://user-images.githubusercontent.com/8432835/216748039-b2fcf0ca-17c2-4502-ae88-6cfe12d01a65.png)
-
-
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matheus.puppe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-puppe/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MatPuppe1990) 
 
@@ -17,14 +14,6 @@ My main stack focus is Ruby on Rails and React.
 ![](https://github-readme-stats.vercel.app/api?username=puppe1990&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puppe1990&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puppe1990&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=puppe1990&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/puppe1990) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
 ![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=puppe1990)
