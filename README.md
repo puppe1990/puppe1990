@@ -1,9 +1,6 @@
 # 💫About Me :
-I'm currently work on my own business [@Purple-Stock](https://github.com/Purple-Stock).
 
-I'm building open source stuff for ecommerce and retail.
-
-My main stack focus is Ruby on Rails and React.
+I am presently engaged in developing my own venture, [@Purple-Stock](https://github.com/Purple-Stock). My efforts are concentrated on creating open-source solutions tailored for the e-commerce and retail sectors. The primary technologies I specialize in are Ruby on Rails, which form the core of my development stack.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matheus.puppe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-puppe/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MatPuppe1990) 
